@@ -1,0 +1,99 @@
+
+
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/6387827/pexels-photo-6387827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  background-attachment: fixed;
+}
+.navitems {
+
+  padding: 2px 10px;
+}
+
+.right-btn {
+  margin-left: 5px ;
+}
+.brand {
+  font-family: "Open Sans";
+  font-weight: bolder;
+  font-size:30px;
+}
+
+.slider {
+  padding: 6rem 2rem;
+  background: transparent;
+}
+
+.slideText h5 {
+  font-family: "Open Sans";
+  font-size:30px;
+}
+.slideText p {
+  font-family: "Open Sans";
+  font-size:15px;
+
+}
+
+.productCards {
+  padding: 2rem 2rem;
+}
+
+
+
+.card {
+  background-color: transparent;
+  border:none;
+}
+.list-group-item {
+  background-color: transparent;
+  border:none;
+
+
+}
+/*
+.links-wrapper button {
+  text-decoration: none;
+  padding: 10px;
+  font-family: "Open Sans";
+  opacity: 0.6;
+  transition: all 0.2s ease-in-out;
+  font-size: 30px;
+  background-color: transparent;
+  outline: none;
+  border: 0px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+.active {
+  color: black;
+}
+.member button {
+  
+  text-decoration: none;
+  padding: 10px;
+  font-family: "Open Sans";
+  opacity: 0.6;
+  transition: all 0.2s ease-in-out;
+  font-size: 25px;
+  background-color: transparent;
+  outline: none;
+  border: 0px;
+  cursor: pointer;
+}
+button:hover {
+  opacity: 1;
+}
+
+.active {
+  color: black;
+}
