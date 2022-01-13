@@ -1,2 +1,0 @@
-# lush
-Created with CodeSandbox
